@@ -1,0 +1,5 @@
+Pienas,Zemaitija, 3
+Duona,Birzai,2
+Vanduo,Druskininkai,3
+Bulves,Raseiniai,2
+Alus,Vilnius,1
